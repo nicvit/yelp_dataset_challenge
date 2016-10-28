@@ -1,0 +1,171 @@
+/* Sarah */
+
+div.jumbotron{
+	background-color:#088da5;
+}
+
+h2.form-signin-heading{
+	color:#9cd1db;
+}
+
+h2{
+	color:#088da5;
+}
+
+#console {
+	height: 300px;
+	border-width: 1px;
+	border-color: black;
+	overflow: auto;
+	padding: 10px;
+}
+
+.imageContainer {
+	justify-content: center;
+}
+
+.outputImage {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 900px;
+	height: 506px;
+}
+
+#importButton, #NLPButton, #visualiseButton {
+	width:20%;
+	background-color:#9cd1db;
+}
+
+#importButton:hover, #NLPButton:hover, #visualiseButton:hover{
+	background-color:#6abac9;
+}
+
+input#searchBar{
+	width:40%;
+	float:left;
+	height:45px;
+	margin-left:15px;
+	margin-right:15px;
+}
+
+a.rss, a.popular{
+	color:#667072;
+}
+/*
+div#collection{
+	height:1000px;
+	overflow:auto;
+}
+*/
+div.collectionItem{
+	float:left;
+	margin:5px;
+	width:300px;
+}
+
+img.imageNews {
+	/*float:left;
+	margin-bottom:15px;*/
+	width:300px;
+	height:225px;
+}
+
+img.imagenews, img.img-responsive, img.img-rounded{
+	/*float:left;
+	margin-bottom:15px;*/
+}
+
+img.size32{
+	width:300px;
+	height:225px;
+}
+
+.sourceImage{
+	float:left;
+	width:24px;
+	height:24px;
+	padding-top:5px;
+}
+
+div.collectionItem .imageTitle{
+	clear:both;
+	height:44px;
+	max-height:44px;
+	font-size:0.75em;
+}
+
+.center32{
+	margin-left:15px;
+	margin-right:15px;
+}
+
+img.size49{
+	width:49%;
+}
+
+.right49{
+	float:right!important;
+}
+
+img.size23{
+	width:23%;
+	margin-left:18px;
+	margin-bottom:17px!important;
+}
+
+hr{
+	clear:both;
+	visibility:hidden;
+}
+
+div.panel-footer{
+	background-color:#667072;
+}
+
+footer.footer div.jumbotron{
+	background-color:#a3a9aa;
+	height:10px;
+}
+
+/*
+div.rssCollection{
+	height:1000px;
+	overflow:auto;
+}
+*/
+div.rssCollectionItem{
+	height:100px;
+	margin-bottom: 5px;
+	border-bottom: solid #e5e5e5;
+	border-width: 1px;
+}
+
+div.rssCollectionItem:hover {
+    background-color: #f0f8ff;
+    border-bottom: none;
+}
+
+p.rssContent{
+	height:73px;
+	font-size:1em;
+}
+
+p.rssTime{
+	height:12px;
+	font-size:0.75em;
+	float:right;
+	color: #7f7f7f;
+}
+
+span.RSSTitle {
+	margin-left: 10px;
+}
+
+#mainFooter {
+    background-color: #4d4d4d;
+    color: #ee7621;
+    clear: both;
+    text-align: center;
+	padding: 5px;
+	height: 244px;	 	 
+}
