@@ -1,0 +1,78 @@
+{u'combined_result': 
+	{u'keywords': 
+		[{u'relevance': u'0.995675', 
+			u'text': u'weekend brunch', 
+			u'sentiment': {u'score': u'0.400034', u'type': u'positive'}}, 
+			{u'relevance': u'0.670285', 
+				u'text': u'waiter', 
+				u'sentiment': {u'type': u'neutral'}}, 
+			{u'relevance': u'0.66504', 
+				u'text': u'Aria', 
+				u'sentiment': {u'score': u'0.400034', u'type': u'positive'}}, 
+			{u'relevance': u'0.656672', 
+				u'text': u'desserts', 
+				u'sentiment': {u'score': u'-0.224275', u'type': u'negative'}}, 
+			{u'relevance': u'0.621107', 
+				u'text': u'drinks', 
+				u'sentiment': {u'type': u'neutral'}}, 
+			{u'relevance': u'0.568961', 
+				u'text': u'food', 
+				u'sentiment': {u'score': u'-0.578331', u'type': u'negative'}}, 
+			{u'relevance': u'0.567581', 
+				u'text': u'service', 
+				u'sentiment': {u'score': u'-0.51339', u'type': u'negative'}}, 
+			{u'relevance': u'0.561834', 
+				u'text': u'staff', 
+				u'sentiment': {u'score': u'0.241748', u'type': u'positive'}}, 
+			{u'relevance': u'0.559076', 
+				u'text': u'table', 
+				u'sentiment': {u'type': u'neutral'}}], 
+	u'entities': 
+		[
+			{u'count': u'1', 
+				u'relevance': u'0.33', 
+				u'type': u'Person', 
+				u'sentiment': {u'score': u'0.400034', u'type': u'positive'}, 
+				u'text': u'Aria'}
+			], 
+	u'taxonomy': 
+		[
+			{u'score': u'0.871891', 
+				u'label': u'/food and drink'}, 
+			{u'confident': u'no', 
+				u'score': u'0.163993', 
+				u'label': u'/food and drink/desserts and baking'}, 
+			{u'confident': u'no', 
+				u'score': u'0.10018', 
+				u'label': u'/food and drink/beverages/alcoholic beverages/cocktails and beer'}
+			], 
+	u'concepts': 
+		[
+			{u'relevance': u'0.891121', 
+				u'freebase': u'http://rdf.freebase.com/ns/m.02s26t', 
+				u'dbpedia': u'http://dbpedia.org/resource/Good_(economics)', 
+				u'text': u'Good'}, 
+			{u'relevance': u'0.795718', 
+				u'text': u'Goods', 
+				u'dbpedia': u'http://dbpedia.org/resource/Goods'}, 
+			{u'relevance': u'0.748', 
+				u'freebase': u'http://rdf.freebase.com/ns/m.07jb5v', 
+				u'yago': u'http://yago-knowledge.org/resource/Bad_(economics)', 
+				u'dbpedia': u'http://dbpedia.org/resource/Bad_(economics)', 
+				u'text': u'Bad'}
+			]},
+u'review_id': u'u-Gbz-uGIIKC0SN2MwXtLw', 
+u'sentiment': {u'type': u'neutral'}, 
+u'user_id': u'SCPtZydptg06oF9VRL5M3g', 
+u'review_useful': 0, 
+u'business_id': u'zTCCbg7mGslxACL5KlAPIQ', 
+u'stars': 2, 
+u'text': u"i visited for weekend brunch and for as new and as pretty as Aria was, i was expecting better. 
+	the desserts were good, food was mediocre, but the service was terrible. i don't know if it was 
+	because everyone was having a bad day or what, but very few of the staff were smiling... and 
+	the waiter who brought drinks to my table even complained that he had to cover too many tables.", 
+u'date': u'2011-03-28', 
+u'useful': 25, 
+u'_id': ObjectId('56849cefd909522b20343bc2'), 
+u'elite': 0, 
+u'categories': [u'Buffets', u'Restaurants']}
