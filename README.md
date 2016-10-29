@@ -12,4 +12,3 @@ conduct research on Yelp’s datasets that will be creative and innovative enoug
 **Yelp Challenges Information:** A lot of universities have taken part on previews challenges and it would be good if we managed to get a prize. The winning submissions are published and their team is invited to give a public presentation of their work.
 
 **Source:** ([Dataset](https://www.yelp.com/dataset_challenge/dataset)).
-# yelp_dataset_challenge
